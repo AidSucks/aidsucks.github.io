@@ -1,0 +1,11 @@
+- title: The Unreel Take
+  role: Developer & Project Manager
+  imageUrl: /assets/images/Unreel.png
+  description: Developing a blogposting website for movies, TV shows, books and many other forms of media. Made in partnership with Angry Fitz Media and Team Coffee Coders @ Sac State, 2026. Utilizes my skills in React, TypeScript & Next.js
+  projectUrl: https://theunreeltake.vercel.app
+
+- title: Escape
+  role: Developer
+  imageUrl: /assets/images/Unreel.png
+  description: A small wave-shooter survival game made for CSC 165 @ Sac State. My final team project project using the TAGE game engine. Utilizes my skills in Java, game engine fundamentals and physics based systems.  
+  projectUrl: https://github.com/AidSucks/CSC165-Lab-03
